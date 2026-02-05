@@ -9,5 +9,5 @@ import { SecondComponent } from './second-component/second-component';
 })
 export class App {
   protected readonly title = signal('mascolo-francesco-fila-a');
-  tuo_cognome = 'app';
+  mascolo = 'app';
 }
