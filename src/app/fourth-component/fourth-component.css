@@ -1,0 +1,13 @@
+.line {
+  color: #6b6b6b;
+  font-size: 20px;
+  margin: 18px 0;
+}
+
+.word {
+  font-weight: 600;
+}
+
+.fourth-word {
+  color: #f0c24b;
+}

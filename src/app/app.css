@@ -1,0 +1,29 @@
+.page {
+  background: #e9e2e7;
+  padding: 24px 26px;
+  width: 520px;
+  min-height: 380px;
+  box-sizing: border-box;
+}
+
+.app-line {
+  color: #6b6b6b;
+  font-size: 20px;
+  margin: 6px 0 14px;
+}
+
+.card {
+  background: #e59a73;
+  border: 2px solid #cc7a59;
+  padding: 14px 16px;
+  min-height: 270px;
+  box-sizing: border-box;
+}
+
+.word {
+  font-weight: 600;
+}
+
+.app-word {
+  color: #e24b3d;
+}
