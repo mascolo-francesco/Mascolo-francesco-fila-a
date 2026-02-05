@@ -8,5 +8,5 @@ import { ThirdComponent } from '../third-component/third-component';
   styleUrl: './second-component.css',
 })
 export class SecondComponent {
-
+  tuo_cognome = 'secondo';
 }
